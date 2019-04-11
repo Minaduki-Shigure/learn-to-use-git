@@ -6,4 +6,5 @@ int main(void)
     printf("Hello world!\n");
     printf("Try to access GitLab with SSH key instead of HTTPS\n");
     printf("And now try to access via WWW\n");
+    printf("Failed.\n");
 }
